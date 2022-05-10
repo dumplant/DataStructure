@@ -1,2 +1,2 @@
 A record of studying data structure.
-MyCodeSchool - 2022/5
+I learn data structure from MyCodeSchool - 2022/5
