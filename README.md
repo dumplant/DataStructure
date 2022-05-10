@@ -5,3 +5,6 @@ A list with the restriction that insertion and deletion can be performed only fr
 ### implementation
 - array
 - linked list
+  - insert/delete
+    - at end of list (tail) -> O(n)
+    - at beginning (head) -> O(1)
